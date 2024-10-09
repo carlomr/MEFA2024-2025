@@ -1,0 +1,19 @@
+name: MEFA-2024
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - fenics-dolfinx
+  - mpich
+  - pyvista
+  - jupyter
+  - notebook
+  - jupytext
+  - trame
+  - trame-vtk
+  - trame-vuetify
+  - imageio
+  - imageio-ffmpeg
+  - gmsh
+  - python-gmsh
+prefix: /Users/cmarcati/opt/miniconda3/envs/MEFA-2024
