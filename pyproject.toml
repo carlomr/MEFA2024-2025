@@ -13,6 +13,8 @@ dependencies = [
     "tqdm",
     "pyvista[all]>=0.43.0",
     "fenics-dolfinx>=0.8.0",
+    "ipywidgets",
+    "trame",
 ]
 
 [project.optional-dependencies]
