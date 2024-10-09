@@ -1,1 +1,0 @@
-fenicsx -t ppa:fenics-packages/fenics
