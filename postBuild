@@ -1,0 +1,6 @@
+#!/bin/bash
+
+add-apt-repository ppa:fenics-packages/fenics
+apt update
+apt install fenicsx
+
