@@ -5,7 +5,6 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "Codici MEFA 2024-2025"
 dependencies = [
-    "jupyter-book",
     "meshio",
     "h5py",
     "seaborn",
@@ -13,8 +12,6 @@ dependencies = [
     "tqdm",
     "pyvista[all]>=0.43.0",
     "fenics-dolfinx>=0.8.0",
-    "ipywidgets",
-    "trame",
 ]
 
 [project.optional-dependencies]
